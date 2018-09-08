@@ -1,4 +1,4 @@
-# crawl-text-as-corpus
+# crawl-text-title-as-corpus
 Crawling data from websites as text corpus  
 
 自然语言处理——中文文本分类，需要文本语料库，这是一个从网站爬取标题文本的代码库
